@@ -38,6 +38,7 @@ Alfa Cursos Profissionalizantes • Mar/2026 — Jun/2026 (400h)
 - [GL Dev](https://gldev.pages.dev/) — Site profissional para vitrines digitais  
 - [Mania de Brownie](https://maniadebrownie.netlify.app/) — Site para brownies artesanais  
 - [TABNC](https://github.com/gabriel-teixeira-2425/TABNC) — Sistema de chamados com automação N8N
+- [Barbearia Evanildo Carvalho](https://barbearia-evanildo-carvalho.netlify.app/) — Site de barbearia em Pacajus
 
 ## 📬 Onde me encontrar
 
